@@ -4,7 +4,8 @@
   "description": "this reads a json file",
   "main": "index.js",
   "dependencies": {
-    "json": "^9.0.6"
+    "json": "^9.0.6",
+    "lodash": "^4.17.4"
   },
   "devDependencies": {},
   "scripts": {
