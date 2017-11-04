@@ -1,0 +1,23 @@
+{
+  "name": "jsonreader",
+  "version": "1.0.0",
+  "description": "this reads a json file",
+  "main": "index.js",
+  "dependencies": {
+    "json": "^9.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr0165061/jsonreader.git"
+  },
+  "author": "Mark Rone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr0165061/jsonreader/issues"
+  },
+  "homepage": "https://github.com/mr0165061/jsonreader#readme"
+}
